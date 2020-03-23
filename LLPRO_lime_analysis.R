@@ -1,5 +1,4 @@
-# LL PRO BONUS
-# Steps from DS4B 201-R:
+
 # 1. Create explainer with lime() 
 # 2. Make explaination with explain()
 # 3. Visualize with plot_features()
