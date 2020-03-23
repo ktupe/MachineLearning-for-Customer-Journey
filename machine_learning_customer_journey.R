@@ -1,5 +1,3 @@
-# BUSINESS SCIENCE LEARNING LAB ----
-# LAB 26: MARKETING CUSTOMER JOURNEY ----
 
 # 1.0 LIBRARIES & DATA ----
 
@@ -310,5 +308,3 @@ query_paths_split_tbl %>% get_id(id = "8150969999547942207")
 plot_model_explanation("8150969999547942207_1", perm = 1e5)
 
 
-# 6.0 MARKETING STRATEGY ----
-# - Lab Discussion
